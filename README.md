@@ -20,9 +20,9 @@ I enjoy building useful tools, designing clean visuals, solving problems, and le
 I create modern and professional visuals.
 
 <p>
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white&color=2596be" />
-<img src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white&color=2596be" />
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white&color=2596be" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white&color=074f16" />
+<img src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white&color=074f16" />
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white&color=074f16" />
 </p>
 
 * 🔹 Posters, Flyers, Banners
@@ -36,10 +36,10 @@ I create modern and professional visuals.
 I'm actively building skills in:
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=2596be" />
-<img src="https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge&logoColor=white&color=2596be" />
-<img src="https://img.shields.io/badge/Kivy-App_Dev-FFD000?style=for-the-badge&logo=kivy&logoColor=white&color=2596be" />
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&color=2596be" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=074f16" />
+<img src="https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge&logoColor=white&color=074f16" />
+<img src="https://img.shields.io/badge/Kivy-App_Dev-FFD000?style=for-the-badge&logo=kivy&logoColor=white&color=074f16" />
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&color=074f16" />
 </p>
 
 * **Python (Primary Focus)**
@@ -52,7 +52,7 @@ I'm actively building skills in:
 ### 🧠 Learning & Growth
 Currently learning and improving in:
 
-![Progress](https://progress-bar.dev/60/?scale=100&title=Python_Mastery&color=2596be)
+![Progress](https://progress-bar.dev/60/?scale=100&title=Python_Mastery&color=074f16)
 
 * ✅ **Python** (Advanced concepts)
 * ✅ **Flutter & Dart** (Mobile Dev)
@@ -75,9 +75,9 @@ I help students and small businesses with:
 I provide fast and reliable services using:
 
 <p>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&color=2596be" />
-<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white&color=2596be" />
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white&color=2596be" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&color=074f16" />
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white&color=074f16" />
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white&color=074f16" />
 </p>
 
 * Data entry & Excel work
@@ -90,7 +90,7 @@ I provide fast and reliable services using:
 
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&color=2596be) ![Dart](https://img.shields.io/badge/-Dart-black?style=flat&logo=dart&color=2596be) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&color=2596be) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&color=2596be) ![Dart](https://img.shields.io/badge/-Dart-black?style=flat&logo=dart&color=2596be) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&color=074f16) |
 | **Frameworks** | `Kivy` `Tkinter` `CustomTkinter` `Flutter` |
 | **Design** | `Photoshop` `Canva` |
 | **Tools** | `Git` `GitHub` `VS Code` `Android Studio` `WSL` |
@@ -107,10 +107,10 @@ I provide fast and reliable services using:
 ### 📫 Contact
 <p>
 <a href="mailto:your-email-here">
-  <img src="https://img.shields.io/badge/Email-Me-white?style=for-the-badge&logo=gmail&logoColor=white&color=2596be" />
+  <img src="https://img.shields.io/badge/Email-Me-white?style=for-the-badge&logo=gmail&logoColor=white&color=074f16" />
 </a>
 <a href="https://github.com/your-username">
-  <img src="https://img.shields.io/badge/GitHub-Profile-white?style=for-the-badge&logo=github&logoColor=white&color=2596be" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-white?style=for-the-badge&logo=github&logoColor=white&color=074f16" />
 </a>
 </p>
 
