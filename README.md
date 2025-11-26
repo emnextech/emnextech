@@ -1,59 +1,79 @@
-# 👾 PLAYER 1: EMMANUEL NGWENYAMA
+<div align="center">
 
-### **[ CREATIVE DESIGNER ] • [ PYTHON DEV ] • [ IT CONSULTANT ]**
+  <!-- Adaptive Header -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Emmanuel%20Ngwenyama&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Creative%20Designer%20%E2%80%A2%20Python%20Dev%20%E2%80%A2%20IT%20Consultant&descAlignY=55&descSize=20">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=f2f2f2&height=250&section=header&text=Emmanuel%20Ngwenyama&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Creative%20Designer%20%E2%80%A2%20Python%20Dev%20%E2%80%A2%20IT%20Consultant&descAlignY=55&descSize=20">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Emmanuel%20Ngwenyama&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Creative%20Designer%20%E2%80%A2%20Python%20Dev%20%E2%80%A2%20IT%20Consultant&descAlignY=55&descSize=20" width="100%" />
+  </picture>
 
-> **STATUS:** ONLINE 🟢  
-> **LOCATION:** ZAMBIA 🇿🇲  
-> **BRAND:** EMNEX
+  <!-- Adaptive Badges -->
+  <img src="https://img.shields.io/badge/Location-Zambia-blue?style=for-the-badge&logo=map"/>
+  <img src="https://img.shields.io/badge/Class-Creative_Developer-8A2BE2?style=for-the-badge&logo=code"/>
+  <img src="https://img.shields.io/badge/Brand-Emnex-2ECC71?style=for-the-badge"/>
 
----
+</div>
 
-## 🎮 PRESS START: ABOUT ME
-I work at the intersection of **graphics, coding, and technology**. I don't just write code; I design experiences. Whether it's building automation tools or creating brand identities, I aim for precision and creativity.
+<br />
 
----
+### 🚀 **Player Bio: About Me**
+> *"Building at the intersection of pixels and logic."*
 
-## ⚔️ WEAPON OF CHOICE (TECH STACK)
-
-### **// CODING ARSENAL**
-* **Primary:** Python (Tkinter, CustomTkinter)
-* **Mobile:** Kivy, Flutter/Dart
-* **Scripting:** Automation & Data Processing
-* **Learning:** Data Structures, Algorithms, UI/UX
-
-### **// GRAPHIC DESIGN**
-* **Tools:** Photoshop | Canva | Illustrator (Basic)
-* **Craft:** Logos, Brand Identity, UI Mockups, Social Media Assets
-
-### **// DATA & ADMIN**
-* **Suite:** MS Word | MS Excel | Google Docs
-* **Skills:** Data Entry, Report Structuring, Tech Support
+I am a passionate creator based in **Zambia**, specializing in **Graphics, Coding, and Technology**.  
+I enjoy building useful tools, designing clean visuals, and solving complex problems.
 
 ---
 
-## 🏆 ACHIEVEMENT UNLOCKED: PROJECTS
+### 🛠️ **Skill Tree & Inventory**
 
-* **[School ID Generator]** - *Automating student identification.*
-* **[License Plate Recognition]** - *Computer vision for vehicle tracking.*
-* **[Zambian Translator App]** - *Bridging language barriers.*
-* **[Traffic Violation Logger]** - *Digitizing law enforcement data.*
-* **[Polls & Quiz Apps]** - *Interactive user engagement tools.*
-
----
-
-## 💾 SAVE POINT: MY GOAL
-To become a highly skilled **Developer + Designer** who builds solutions that help communities, businesses, and students—while growing a strong personal brand.
+| **Class** | **Skill / Tool** |
+| :--- | :--- |
+| **💻 Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **⚙️ Frameworks** | `Tkinter` `CustomTkinter` `Kivy` `Flutter` |
+| **🎨 Design** | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) `Illustrator` |
+| **🔧 Tools** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) `VS Code` `Android Studio` `WSL` |
+| **📝 Data Ops** | `MS Excel` `Google Sheets` `Automation Scripts` |
 
 ---
 
-## 📡 TRANSMISSION (CONTACT)
+### 🕹️ **Quest Log: Active Projects**
 
-* **Email:** *(Insert Email Here)*
-* **GitHub:** github.com/your-username
-* **Brand:** Emnex
+| **Project Name** | **Description** | **Tech Used** |
+| :--- | :--- | :--- |
+| **🆔 ID Generator** | Automated School ID Card generation system | *Python, Tkinter* |
+| **🚗 LPR System** | License Plate Recognition for security | *Python, CV* |
+| **🗣️ Zed Translator** | Zambian Language Translator App | *Flutter/Dart* |
+| **💰 Budget Tracker** | Personal finance and expense tracking | *Python* |
+| **📋 Traffic Logger** | Traffic Violation Logging System | *Database, Python* |
 
-***
+---
+
+### 🧠 **Leveling Up (Currently Learning)**
+
+* **Main Quest:** Mastering Advanced Python & Flutter  
+* **Side Quest:** Data Structures, Algorithms & UI/UX  
+* **Buffs:** Math for sharper problem solving  
+
+---
+
+### 🤝 **Co-Op Mode / Consulting**
+
+I help with:  
+✔ System optimization  
+✔ Software installation & troubleshooting  
+✔ Tech guidance for students/businesses  
+✔ Data entry & document formatting  
+
+---
 
 <div align="center">
-  <i>Thanks for stopping by. <br> If you like my work, don't forget to star the repository! ⭐</i>
+
+### 📫 **Connect to Server**
+
+[**Email Me**](mailto:YOUR_EMAIL_HERE) • [**GitHub Profile**](https://github.com/YOUR_USERNAME)
+
+**Goal:** Become a high-level **Developer + Designer** building solutions for communities.
+
+⭐ **Thanks for visiting! Feel free to fork my repos or send a message.**
+
 </div>
