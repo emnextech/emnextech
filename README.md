@@ -34,4 +34,82 @@ I create modern and professional visuals.
 ### 💻 Software & Coding  
 I'm actively building skills in:
 
-![Python](
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black&color=39FF14)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge&logoColor=black&color=39FF14)
+![Kivy](https://img.shields.io/badge/Kivy-App_Dev-FFD000?style=for-the-badge&logo=kivy&logoColor=black&color=39FF14)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=black&color=39FF14)
+
+* **Python (Primary Focus)**
+* Desktop Software (Tkinter, CustomTkinter)
+* Mobile Apps (Kivy, Flutter/Dart)
+* Automation Scripts & Data Processing Tools
+
+---
+
+### 🧠 Learning & Growth  
+Currently learning and improving in:  
+✅ **Python** (Advanced concepts)  
+✅ **Flutter & Dart** (Mobile Dev)  
+✅ **Computer Systems** ✅ **Data Structures & Algorithms** ✅ **UI/UX Principles** ✅ **Math** (Problem-solving)
+
+> *I take a forward-thinking approach — always building, improving, and experimenting.*
+
+---
+
+### 🖥️ IT & Computer Consulting  
+I help students and small businesses with:  
+* 🛠️ Computer setup & optimization  
+* 💾 Software installations  
+* 🔌 Basic troubleshooting  
+* 💻 System advice & Hardware requirements
+
+---
+
+### 📝 Data Entry & Digital Work  
+I provide fast and reliable services using:  
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=black&color=39FF14)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=black&color=39FF14)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=black&color=39FF14)
+
+* Data entry & Excel work
+* Document formatting & Report structuring
+* PDF processing
+
+---
+
+### ⚡ Tech Stack & Tools  
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&color=39FF14) ![Dart](https://img.shields.io/badge/-Dart-black?style=flat&logo=dart&color=39FF14) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&color=39FF14) |
+| **Frameworks** | `Kivy` `Tkinter` `CustomTkinter` `Flutter` |
+| **Design** | `Photoshop` `Canva` |
+| **Tools** | `Git` `GitHub` `VS Code` `Android Studio` `WSL` |
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&title_color=39FF14&icon_color=39FF14&text_color=ffffff&bg_color=0d1117&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&title_color=39FF14&icon_color=39FF14&text_color=ffffff&bg_color=0d1117&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+### 📫 Contact  
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Me-black?style=for-the-badge&logo=gmail&logoColor=white&color=39FF14" />
+</a>
+<a href="https://github.com/your-username">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white&color=39FF14" />
+</a>
+
+<br />
+
+### 🌱 My Goal  
+To become a highly skilled **developer + designer** who builds solutions that help communities, businesses, and students — while growing a strong personal brand, **Emnex**.
+
+---
+
+<p align="center">
+⭐ <b>Thanks for stopping by!</b><br>
+Feel free to reach out if you want to collaborate!
+</p>
