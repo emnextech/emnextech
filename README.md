@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Emmanuel Ngwenyama <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Emmanuel  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=435&lines=Creative+Designer;Python+Developer;Tech+Learner;IT+Consultant" alt="Typing SVG" />
