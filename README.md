@@ -1,101 +1,73 @@
-<h1 align="center">Hi, I'm Emmanuel Ngwenyama 👋</h1>
-<h3 align="center">Creative Designer • Python Developer • Tech Learner • IT Consultant</h3>
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Emmanuel%20Ngwenyama&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Creative%20Designer%20%E2%80%A2%20Python%20Dev%20%E2%80%A2%20IT%20Consultant&descAlignY=55&descSize=20" alt="Emmanuel Ngwenyama Header" width="100%"/>
+
+  <img src="https://img.shields.io/badge/Location-Zambia-blue?style=for-the-badge&logo=map"/>
+  <img src="https://img.shields.io/badge/Class-Creative_Developer-purple?style=for-the-badge&logo=code"/>
+  <img src="https://img.shields.io/badge/Brand-Emnex-success?style=for-the-badge"/>
+
+</div>
+
+<br />
+
+### 🚀 **Player Bio: About Me**
+> *"Building at the intersection of pixels and logic."*
+
+I am a passionate creator based in **Zambia**, specializing in **Graphics, Coding, and Technology**. I enjoy building useful tools, designing clean visuals, and solving complex problems. My mission is to combine aesthetic design with robust code.
 
 ---
 
-### 🚀 About Me  
-I'm a passionate creator from Zambia, working at the intersection of **graphics, coding, and technology**.  
-I enjoy building useful tools, designing clean visuals, solving problems, and learning new technologies every day.
+### 🛠️ **Skill Tree & Inventory**
+
+| **Class** | **Skill / Tool** |
+| :--- | :--- |
+| **💻 Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **⚙️ Frameworks** | `Tkinter` `CustomTkinter` `Kivy` `Flutter` |
+| **🎨 Design** | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) `Illustrator` |
+| **🔧 Tools** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) `VS Code` `Android Studio` `WSL` |
+| **📝 Data Ops** | `MS Excel` `Google Sheets` `Automation Scripts` |
 
 ---
 
-### 🖌️ Graphic Design  
-I create modern and professional visuals for:  
-- Posters, Flyers, Banners  
-- Logos & Brand Identity  
-- Social Media Ads  
-- Business Cards & Templates  
+### 🕹️ **Quest Log: Active Projects**
 
-I work with tools like:  
-**Photoshop | Canva | Illustrator (basic)**
+I am currently developing software solutions for real-world problems.
 
----
-
-### 💻 Software & Coding  
-I'm actively building projects in:  
-- **Python (Primary Focus)**  
-- Desktop Software (Tkinter, CustomTkinter)  
-- Mobile Apps (Kivy, Flutter/Dart)  
-- Automation Scripts  
-- Data Processing Tools  
-
-Projects I work on include:  
-- School ID Card Generator  
-- License Plate Recognition System  
-- Zambian Language Translator App  
-- Budget Tracker  
-- Polls & Quiz Applications  
-- Traffic Violation Logger  
+| **Project Name** | **Description** | **Tech Used** |
+| :--- | :--- | :--- |
+| **🆔 ID Generator** | Automated School ID Card generation system | *Python, Tkinter* |
+| **🚗 LPR System** | License Plate Recognition for security | *Python, CV* |
+| **🗣️ Zed Translator** | Zambian Language Translator App | *Flutter/Dart* |
+| **💰 Budget Tracker** | Personal finance and expense tracking | *Python* |
+| **📋 Traffic Logger** | Traffic Violation Logging System | *Database, Python* |
 
 ---
 
-### 🧠 Learning & Growth  
-Currently learning and improving in:  
-- Python  
-- Flutter & Dart  
-- Computer Systems  
-- Data Structures & Algorithms  
-- UI/UX Principles  
-- Math (to sharpen problem-solving)
-
-I take a forward-thinking approach — always building, improving, and experimenting.
+### 🧠 **Leveling Up (Currently Learning)**
+I take a forward-thinking approach—always building, improving, and experimenting.
+* **Main Quest:** Mastering Advanced Python & Flutter.
+* **Side Quest:** Understanding Data Structures, Algorithms & UI/UX Principles.
+* **Buffs:** Applied Mathematics for better problem solving.
 
 ---
 
-### 🖥️ IT & Computer Consulting  
-I help with:  
-- Computer setup & optimization  
-- Software installations  
-- Basic troubleshooting  
-- System advice for students & small businesses  
-- Understanding hardware requirements  
+### 🤝 **Co-Op Mode / Consulting**
+Need a player 2? I provide **IT & Computer Consulting**:
+* ✅ Computer setup & system optimization
+* ✅ Software installations & troubleshooting
+* ✅ System advice for students & small businesses
+* ✅ Data Entry & Document Formatting
 
 ---
 
-### 📝 Data Entry & Digital Work  
-I provide fast and reliable services in:  
-- Data entry  
-- Excel work  
-- Google Sheets  
-- Document formatting  
-- Report structuring  
-- PDF processing  
+<div align="center">
 
-Tools I use daily:  
-**MS Word | MS Excel | Google Docs | Google Sheets**
+### 📫 **Connect to Server**
 
----
+[**Email Me**](mailto:YOUR_EMAIL_HERE) • [**GitHub Profile**](https://github.com/your-username)
 
-### ⚡ Tech Stack & Tools  
-**Languages:** Python, Dart (learning), JavaScript (basic)  
-**Frameworks:** Kivy, Tkinter, CustomTkinter, Flutter  
-**Design Tools:** Photoshop, Canva  
-**Other Tools:** Git, GitHub, VS Code, Android Studio, WSL  
+**Goal:** To become a high-level **Developer + Designer** building solutions for communities.
 
----
+⭐ **Thanks for visiting! Feel free to fork my repos or drop a message.**
 
-### 📫 Contact  
-- **Email:** *(add your email here)*  
-- **GitHub:** github.com/your-username  
-- **Brand:** *Emnex*  
-
----
-
-### 🌱 My Goal  
-To become a highly skilled **developer + designer** who builds solutions that help communities, businesses, and students — while growing a strong personal brand.
-
----
-
-⭐ **Thanks for stopping by!**  
-Feel free to check out my projects or reach out if you want to collaborate!
-
+</div>
