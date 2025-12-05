@@ -1,127 +1,202 @@
-<h1 align="center">Hi, I'm Emmanuel Ngwenyama <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2596be&background=00000000&center=true&vCenter=true&width=435&lines=Creative+Designer;Python+Developer;Tech+Learner;IT+Consultant" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Brand-Emnex-white?style=for-the-badge&logoColor=white&color=2596be" alt="Emnex Brand"/>
-</p>
-
----
-
-### 🚀 About Me
-I'm a passionate creator from **Zambia**, working at the intersection of **graphics, coding, and technology**.  
-I enjoy building useful tools, designing clean visuals, solving problems, and learning new technologies every day.
-
----
-
-### 🖌️ Graphic Design
-I create modern and professional visuals.
-
-<p>
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white&color=074f16" />
-<img src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white&color=074f16" />
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white&color=074f16" />
-</p>
-
-* 🔹 Posters, Flyers, Banners
-* 🔹 Logos & Brand Identity
-* 🔹 Social Media Ads
-* 🔹 Business Cards & Templates
-
----
-
-### 💻 Software & Coding
-I'm actively building skills in:
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=074f16" />
-<img src="https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge&logoColor=white&color=074f16" />
-<img src="https://img.shields.io/badge/Kivy-App_Dev-FFD000?style=for-the-badge&logo=kivy&logoColor=white&color=074f16" />
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&color=074f16" />
-</p>
-
-* **Python (Primary Focus)**
-* Desktop Software (Tkinter, CustomTkinter)
-* Mobile Apps (Kivy, Flutter/Dart)
-* Automation Scripts & Data Processing Tools
-
----
-
-### 🧠 Learning & Growth
-Currently learning and improving in:
-
-![Progress](https://progress-bar.dev/60/?scale=100&title=Python_Mastery&color=074f16)
-
-* ✅ **Python** (Advanced concepts)
-* ✅ **Flutter & Dart** (Mobile Dev)
-* ✅ **Computer Systems**
-* ✅ **Data Structures & Algorithms**
-* ✅ **UI/UX Principles** & **Math**
-
----
-
-### 🖥️ IT & Computer Consulting
-I help students and small businesses with:
-* 🛠️ Computer setup & optimization
-* 💾 Software installations
-* 🔌 Basic troubleshooting
-* 💻 System advice & Hardware requirements
-
----
-
-### 📝 Data Entry & Digital Work
-I provide fast and reliable services using:
-
-<p>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&color=074f16" />
-<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white&color=074f16" />
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white&color=074f16" />
-</p>
-
-* Data entry & Excel work
-* Document formatting & Report structuring
-* PDF processing
-
----
-
-### ⚡ Tech Stack & Tools
-
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&color=2596be) ![Dart](https://img.shields.io/badge/-Dart-black?style=flat&logo=dart&color=2596be) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&color=074f16) |
-| **Frameworks** | `Kivy` `Tkinter` `CustomTkinter` `Flutter` |
-| **Design** | `Photoshop` `Canva` |
-| **Tools** | `Git` `GitHub` `VS Code` `Android Studio` `WSL` |
-
----
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&title_color=2596be&icon_color=2596be&text_color=ffffff&bg_color=0d1117&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&title_color=2596be&icon_color=2596be&text_color=ffffff&bg_color=0d1117&hide_border=true" height="150" alt="languages graph" />
+  
+# 👋 Emmanuel Ngwenyama
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=AB8BFF&center=true&vCenter=true&width=500&lines=Creative+Designer+%F0%9F%8E%A8;Python+Developer+%F0%9F%90%8D;Mobile+App+Builder+%F0%9F%93%B1;Problem+Solver+%F0%9F%92%A1" alt="Typing Animation" />
+
+<br/>
+
+![Brand](https://img.shields.io/badge/Brand-Emnex-AB8BFF?style=for-the-badge&labelColor=030014)
+![Location](https://img.shields.io/badge/Based_in-Zambia_🇿🇲-2DE2E6?style=for-the-badge&labelColor=030014)
+![Status](https://img.shields.io/badge/Status-Building-00E096?style=for-the-badge&labelColor=030014)
+
 </div>
 
 ---
 
-### 📫 Contact
-<p>
-<a href="mailto:your-email-here">
-  <img src="https://img.shields.io/badge/Email-Me-white?style=for-the-badge&logo=gmail&logoColor=white&color=074f16" />
-</a>
-<a href="https://github.com/your-username">
-  <img src="https://img.shields.io/badge/GitHub-Profile-white?style=for-the-badge&logo=github&logoColor=white&color=074f16" />
-</a>
-</p>
+## 🚀 About Me
 
-<br />
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Emmanuel Ngwenyama"
+        self.brand = "Emnex"
+        self.location = "Zambia 🇿🇲"
+        self.skills = ["Design", "Code", "Problem Solving"]
+        self.passion = "Building tools that make a difference"
+        
+    def current_focus(self):
+        return ["Python Mastery", "Mobile Development", "UI/UX Design"]
+```
 
-### 🌱 My Goal
-To become a highly skilled **developer + designer** who builds solutions that help communities, businesses, and students — while growing a strong personal brand, **Emnex**.
+I'm a **multi-disciplinary creator** passionate about merging design and technology. Whether it's crafting pixel-perfect visuals or building functional software, I thrive on turning ideas into reality.
 
 ---
 
+## 💻 Tech Arsenal
+
+### **Languages & Frameworks**
+
 <p align="center">
-⭐ <b>Thanks for stopping by!</b><br>
-Feel free to reach out if you want to collaborate!
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=030014&color=AB8BFF)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=030014&color=AB8BFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=030014&color=2DE2E6)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=030014&color=2DE2E6)
+
 </p>
+
+<details>
+<summary><b>🔧 Tools & Technologies</b></summary>
+
+<br/>
+
+| Category | Stack |
+|----------|-------|
+| **Desktop** | `Tkinter` • `CustomTkinter` • `PyQt` |
+| **Mobile** | `Flutter` • `Kivy` • `React Native` |
+| **Design** | `Photoshop` • `Canva` • `Illustrator` |
+| **Dev Tools** | `Git` • `VS Code` • `Android Studio` • `WSL` |
+| **Office** | `Excel` • `Word` • `Google Workspace` |
+
+</details>
+
+---
+
+## 🎨 Design Services
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### **Graphic Design**
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white&labelColor=030014&color=AB8BFF)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white&labelColor=030014&color=AB8BFF)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white&labelColor=030014&color=AB8BFF)
+
+- 🎯 **Brand Identity** - Logos, color schemes
+- 📱 **Social Media** - Posts, ads, banners
+- 📄 **Print Materials** - Flyers, business cards
+- 🖼️ **Digital Assets** - Posters, templates
+
+</td>
+<td width="50%" valign="top">
+
+### **Development**
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=030014&color=2DE2E6)
+![Flutter](https://img.shields.io/badge/Flutter-Learning-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=030014&color=2DE2E6)
+
+- 🖥️ **Desktop Apps** - GUI applications
+- 📲 **Mobile Apps** - Cross-platform solutions
+- 🤖 **Automation** - Scripts & tools
+- 📊 **Data Processing** - Analysis tools
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Learning Journey
+
+```mermaid
+graph LR
+    A[Python Basics] --> B[Advanced Python]
+    B --> C[GUI Development]
+    C --> D[Mobile Apps]
+    D --> E[Full Stack]
+    
+    style A fill:#030014,stroke:#AB8BFF,color:#FFFFFF
+    style B fill:#030014,stroke:#AB8BFF,color:#FFFFFF
+    style C fill:#030014,stroke:#AB8BFF,color:#FFFFFF
+    style D fill:#030014,stroke:#2DE2E6,color:#FFFFFF
+    style E fill:#030014,stroke:#2DE2E6,color:#FFFFFF
+```
+
+### **Current Focus Areas**
+
+<div align="center">
+
+| Skill | Progress |
+|:------|:--------:|
+| **Python Mastery** | ![60%](https://progress-bar.dev/60?width=200&color=AB8BFF&suffix=%) |
+| **Flutter/Dart** | ![45%](https://progress-bar.dev/45?width=200&color=2DE2E6&suffix=%) |
+| **UI/UX Design** | ![70%](https://progress-bar.dev/70?width=200&color=AB8BFF&suffix=%) |
+| **Data Structures** | ![50%](https://progress-bar.dev/50?width=200&color=2DE2E6&suffix=%) |
+
+</div>
+
+---
+
+## 🛠️ Services Offered
+
+<div align="center">
+
+| 💼 Service | 📝 Description |
+|:-----------|:---------------|
+| **IT Consulting** | Computer setup, optimization, troubleshooting |
+| **Software Development** | Custom desktop & mobile applications |
+| **Data Entry** | Excel work, document formatting, PDF processing |
+| **Graphic Design** | Branding, social media, print materials |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&title_color=AB8BFF&icon_color=2DE2E6&text_color=9CA4AB&bg_color=030014&border_color=AB8BFF&hide_border=false&border_radius=10" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical&background=030014&border=AB8BFF&stroke=2DE2E6&ring=AB8BFF&fire=2DE2E6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=AB8BFF&sideLabels=9CA4AB&dates=9CA4AB&border_radius=10" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&title_color=AB8BFF&text_color=9CA4AB&bg_color=030014&border_color=AB8BFF&hide_border=false&border_radius=10" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🎯 Vision & Goals
+
+<div align="center">
+
+> **"To become a skilled developer + designer who builds solutions that empower communities, businesses, and students."**
+
+</div>
+
+### **2024 Roadmap**
+
+- ✅ Master Python fundamentals
+- 🔄 Build 5 production-ready apps
+- 🔄 Launch Emnex brand portfolio
+- 📅 Learn advanced Flutter
+- 📅 Contribute to open source
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-AB8BFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030014)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-2DE2E6?style=for-the-badge&logo=github&logoColor=white&labelColor=030014)](https://github.com/your-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-AB8BFF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=030014)](https://your-portfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting!
+
+<img src="https://komarev.com/ghpvc/?username=your-username&color=AB8BFF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+**Open to collaborations and freelance opportunities**
+
+<sub>Built with 💜 using Markdown & GitHub Actions</sub>
+
+</div>
