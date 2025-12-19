@@ -1,136 +1,88 @@
 <div align="center">
-  
-# Hey there! I'm Emmanuel Ngwenyama
 
-### Also known as **EMNEX**
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+Learner;Software+Engineering+Enthusiast;Building+Real-World+Projects)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=EMNEX&color=brightgreen&style=flat-square)
-
-</div>
+# 💫 About Me
+### I'm currently working on <a href="https://emnexmovies.tech" target="_blank">emnexmovies.tech</a>
 
 ---
 
-## About Me
+<a href="https://facebook.com/ngwenyama31">
+  <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://instagram.com/emnex31">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:ngwenyamae3118@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-I'm a **full-stack development learner** with a passion for building innovative software solutions and real-world applications. Currently on a journey to master modern development technologies and engineering best practices.
+<br />
+<br />
 
-- I'm currently working on **mobile & web projects**
-- I'm learning **Flutter, React Native, Python & Full-Stack Development**
-- I love exploring new technologies and solving complex problems
-- Goal: Become a proficient full-stack software engineer
-- Fun fact: I'm also into **graphic design** and **IT consulting**
+<h1>💻 Tech Stack</h1>
 
----
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<br/>
 
-## Tech Stack
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<br/>
 
-### Mobile & Web Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Appwrite-000000?style=for-the-badge&logo=appwrite&logoColor=white" />
+<br/>
 
-### Backend & Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/DigitalOcean-000000?style=for-the-badge&logo=digitalOcean&logoColor=white" />
+<br/>
 
-### Design & Tools
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe-000000?style=for-the-badge&logo=adobe&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
 
-### Development Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br />
+<br />
 
----
+<h1>📊 GitHub Stats</h1>
 
-## What I'm Currently Learning
+<img src="https://github-readme-stats.vercel.app/api?username=emnextech&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false&include_all_commits=true&count_private=false" alt="Stats" />
+<br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=emnextech&theme=black-ice&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" alt="Streak" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnextech&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
 
-```javascript
-const emmanuel = {
-  currentFocus: ["Full-Stack Development", "Mobile App Development"],
-  learning: ["Flutter & Dart", "React Native", "Python", "Software Architecture"],
-  goals2025: ["Build 10+ real-world projects", "Master full-stack fundamentals"],
-  mindset: "Continuous learning & improvement "
-};
-```
+<br />
+<br />
 
----
+<h3>✍️ Random Dev Quote</h3>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite" />
 
-## 💼 Skills & Expertise
+<h3>🔝 Top Contributed Repo</h3>
+<img src="https://github-contributor-stats.vercel.app/api?username=emnextech&limit=5&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&combine_all_yearly_contributions=true" />
 
-<div align="center">
+<br />
+<br />
 
-| Category | Skills |
-|----------|--------|
-| **Development** | Software Development, Full-Stack Learning |
-| **Design** | Graphic Design, UI/UX Basics |
-| **Tools** | Microsoft Office Suite, Git & GitHub |
-| **IT Services** | IT Consulting, Computer Troubleshooting |
-| **Problem Solving** | System Issues, Software Debugging |
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=emnextech&icon=8&color=12" />
+</a>
 
-</div>
+<br />
+<br />
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EMNEX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EMNEX&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EMNEX&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-Check out some of my work on my [GitHub repositories](https://github.com/emnextech?tab=repositories)! I'm constantly building and learning through real-world projects.
-
-> 💡 *More projects coming soon as I continue my full-stack journey!*
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngwenyamae3118@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:0777274339)
-
-**📧 Email:** emmanuelngwenyama@example.com  
-**📱 Phone:** 0777274339
-
-</div>
-
----
-
-## 💭 Quote
-
-<div align="center">
-
-*"The only way to do great work is to love what you do."* - Steve Jobs
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 Thanks for visiting! 🌟
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-**Made with ❤️ by EMNEX**
-
-⭐️ From [EMNEX](https://github.com/EMNEX)
+<h2>💰 Support My Work</h2>
+<a href="https://patreon.com/Emmanuel731">
+  <img src="https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=white" />
+</a>
 
 </div>
