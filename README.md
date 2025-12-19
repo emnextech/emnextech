@@ -1,88 +1,74 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Emmanuel;Building+emnexmovies.tech;Full+Stack+%26+Mobile+Dev" alt="Typing SVG" />
+  
+  <p align="center">
+     <a href="https://emnexmovies.tech"><b>🌐 Visit My Project: emnexmovies.tech</b></a>
+  </p>
 
-# 💫 About Me
-### I'm currently working on <a href="https://emnexmovies.tech" target="_blank">emnexmovies.tech</a>
+<p align="center">
+  <a href="https://facebook.com/ngwenyama31">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://instagram.com/emnex31">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:ngwenyamae3118@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://patreon.com/Emmanuel731">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white" alt="Patreon">
+  </a>
+</p>
+</div>
 
 ---
 
-<a href="https://facebook.com/ngwenyama31">
-  <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-</a>
-<a href="https://instagram.com/emnex31">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="mailto:ngwenyamae3118@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+### 💻 The Arsenal
 
-<br />
-<br />
+| **Frontend & Mobile** | **Backend & Database** | **Cloud & Hosting** |
+|:---:|:---:|:---:|
+| ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) <br> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) <br> ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) <br> ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat-square&logo=appwrite&logoColor=white) | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) <br> ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) <br> ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white) |
 
-<h1>💻 Tech Stack</h1>
+<br>
 
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-<br/>
+<div align="center">
+  <b>Design & Version Control</b><br>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
+</div>
 
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<br/>
+<br>
 
-<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Appwrite-000000?style=for-the-badge&logo=appwrite&logoColor=white" />
-<br/>
+---
 
-<img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=Cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
-<img src="https://img.shields.io/badge/DigitalOcean-000000?style=for-the-badge&logo=digitalOcean&logoColor=white" />
-<br/>
+### 📊 Developer Dashboard
 
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe-000000?style=for-the-badge&logo=adobe&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+<div align="center">
+  <a href="https://github.com/emnextech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emnextech&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Emnex Stats" />
+  </a>
+  <a href="https://github.com/emnextech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnextech&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=emnextech&theme=tokyonight&hide_border=true" alt="Streak" />
+</div>
 
-<br />
-<br />
+<br>
 
-<h1>📊 GitHub Stats</h1>
+### 🧩 Contributions & Quotes
 
-<img src="https://github-readme-stats.vercel.app/api?username=emnextech&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false&include_all_commits=true&count_private=false" alt="Stats" />
-<br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=emnextech&theme=black-ice&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" alt="Streak" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnextech&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=emnextech&limit=3&theme=tokyonight&combine_all_yearly_contributions=true" width="48%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="48%" />
+</div>
 
-<br />
-<br />
+<br>
 
-<h3>✍️ Random Dev Quote</h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite" />
+---
 
-<h3>🔝 Top Contributed Repo</h3>
-<img src="https://github-contributor-stats.vercel.app/api?username=emnextech&limit=5&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&combine_all_yearly_contributions=true" />
-
-<br />
-<br />
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=emnextech&icon=8&color=12" />
-</a>
-
-<br />
-<br />
-
-<h2>💰 Support My Work</h2>
-<a href="https://patreon.com/Emmanuel731">
-  <img src="https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=white" />
-</a>
-
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=emnextech&icon=5&color=4" />
 </div>
