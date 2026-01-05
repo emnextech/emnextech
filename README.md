@@ -120,20 +120,11 @@ Currently learning, shipping projects, and improving every day.
 
 <br/>
 
-<h2>📊 GitHub Stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=emnextech&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnextech&theme=tokyonight&hide_border=true&layout=compact" />
-<br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=emnextech&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=emnextech&theme=tokyo-night&hide_border=true" />
 
-<br/><br/>
 
-<img src="https://visitcount.itsvg.in/api?id=emnextech&icon=5&color=4" />
 
 </div>
