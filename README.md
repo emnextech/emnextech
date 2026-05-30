@@ -1,213 +1,121 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Emmanuel+%7C+emnex;Full+Stack+Developer;Learning+by+Shipping+Projects" alt="Typing SVG" />
-
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Emmanuel+%7C+emnex;Full+Stack+Developer;I+learn+by+shipping+real+projects" alt="Typing SVG" />
 
 <p>
-Hey! I'm <b>Emmanuel</b>, also known as <b>emnex</b> — a full stack developer who believes in learning by building real projects.<br/>
-I ship products, break things, fix them, and keep improving every day.
+Full-stack web developer from 📍 Zambia, building real-world products.<br/>
+Focused on learning, shipping, and improving every single day.
 </p>
 
-<br/>
-
-<a href="https://emnexmovies.tech">
-  <img src="https://img.shields.io/badge/🎬_EmnexMovies-emnexmovies.tech-blueviolet?style=for-the-badge" />
-</a>
-<a href="https://emnexanime.site">
-  <img src="https://img.shields.io/badge/🌸_EmnexAnime-emnexanime.site-ff69b4?style=for-the-badge" />
-</a>
-<a href="https://emnexmangas.site">
-  <img src="https://img.shields.io/badge/📖_EmnexMangas-emnexmangas.site-orange?style=for-the-badge" />
-</a>
-
-<br/>
-<br/>
-
-<a href="mailto:emnex31@gmail.com">
-  <img src="https://img.shields.io/badge/Contact_Me-emnex31@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<br/>
-<br/>
-
-<a href="https://facebook.com/ngwenyama31">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white">
-</a>
-<a href="https://instagram.com/emnex31">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white">
+<a href="https://emmanuelngwenyama.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-emmanuelngwenyama.vercel.app-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="mailto:emnex31@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://patreon.com/Emmanuel731">
-  <img src="https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white">
-</a>
-
-<br/>
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<h2>📊 GitHub Stats</h2>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=emnextech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emnextech&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnextech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<br/>
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=emnextech&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-
-<br/>
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<h2>🚀 My Projects</h2>
-
-<p>Real projects I've built, deployed, and continue to improve. More coming as I keep shipping.</p>
-
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Status</th>
-    <th>Link</th>
-  </tr>
-
-  <tr>
-    <td><b>🎬 EmnexMovies</b></td>
-    <td>Movie & TV streaming platform with downloads, built for performance and real users.</td>
-    <td>✅ Live</td>
-    <td><a href="https://emnexmovies.tech">Visit</a></td>
-  </tr>
-
-  <tr>
-    <td><b>🌸 EmnexAnime</b></td>
-    <td>Anime streaming website with dubbed & subbed content, smooth playback experience.</td>
-    <td>✅ Live</td>
-    <td><a href="https://emnexanime.site">Visit</a></td>
-  </tr>
-
-  <tr>
-    <td><b>📖 EmnexMangas</b></td>
-    <td>Manga reading platform with a clean reader UI and extensive library.</td>
-    <td>✅ Live</td>
-    <td><a href="https://emnexmangas.site">Visit</a></td>
-  </tr>
-
-  <tr>
-    <td><b>📱 EmnexMangas App</b></td>
-    <td>Android app for reading manga offline. Download chapters and read anywhere.</td>
-    <td>✅ Live</td>
-    <td><a href="https://emnexmangas.site/app">Download</a></td>
-  </tr>
-
-  <tr>
-    <td><b>💊 Fountain Wellness</b></td>
-    <td>Health & wellness product store with a clean e-commerce experience.</td>
-    <td>✅ Live</td>
-    <td><a href="https://fountainwellness.store">Visit</a></td>
-  </tr>
-
-  <tr>
-    <td><b>🆔 IDLab</b></td>
-    <td>School ID card generation system (PDF-based, automation focused).</td>
-    <td>🔄 Updating</td>
-    <td>—</td>
-  </tr>
-
-  <tr>
-    <td><b>📄 DocuGen</b></td>
-    <td>Document & certificate generator that creates business documents from simple forms.</td>
-    <td>✅ Live</td>
-    <td><a href="https://ocu-gen-xi.vercel.app/#/">Visit</a></td>
-  </tr>
-</table>
-
-<br/>
-
-<i>📌 This list keeps growing as I ship more production-ready projects.</i>
-
-<br/>
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<h2>💻 Tech Stack</h2>
-
-<b>Frontend & Mobile</b><br/>
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
 
 <br/><br/>
 
-<b>Backend & Database</b><br/>
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat-square&logo=appwrite&logoColor=white" />
+<a href="https://facebook.com/ngwenyama31"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" /></a>
+<a href="https://instagram.com/emnex31"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" /></a>
+<a href="https://patreon.com/Emmanuel731"><img src="https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=emnextech&color=36BCF7&style=flat-square&label=Profile+Views" />
 
-<br/><br/>
+</div>
 
-<b>Cloud, Hosting & Tools</b><br/>
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
+---
 
-<br/>
-<br/>
+## 📊 Activity Snapshot
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+> Real numbers across all my repositories (public + private), updated periodically.
 
-<br/>
+<div align="center">
 
-<h2>📈 Contribution Activity</h2>
+| Contributions (last yr) | Commits (last yr) | Repositories | Top Stack |
+|:---:|:---:|:---:|:---:|
+| **1,961** | **1,886** | **74** | TypeScript · React · Python |
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=emnextech&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 
-<br/>
+**Language mix across my repos**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emnextech&theme=tokyonight" />
+```text
+TypeScript   ███████████████████░░░░░░░░░░░░░░░░░░  43%
+JavaScript   ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░  23%
+Python       ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  14%
+HTML         █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  11%
+Dart         ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%
+```
 
-<br/>
-<br/>
+<div align="center">
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emnextech&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emnextech&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=emnextech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=emnextech&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnextech&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&count_private=true" alt="Top Languages" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<sub>📌 The cards above only count public activity — the snapshot table reflects my full contribution history.</sub>
 
-<br/>
+</div>
 
-<h2>🐍 Watch My Contributions Get Eaten</h2>
+---
+
+## 🚀 Featured Projects
+
+Production projects I've built, deployed, and keep improving.
+
+| Project | What it is | Status | Link |
+|:--|:--|:--:|:--:|
+| 🎬 **EmnexMovies** | Movie & TV streaming platform with downloads, built for performance and real users | ✅ Live | [Visit](https://emnexmovies.tech) |
+| 🌸 **EmnexAnime** | Anime streaming site with dubbed & subbed content and smooth playback | ✅ Live | [Visit](https://emnexanime.site) |
+| 📖 **EmnexMangas** | Manga reading platform with a clean reader UI and a large library | ✅ Live | [Visit](https://emnexmangas.site) |
+| 📱 **EmnexMangas App** | Android app for reading manga offline — download chapters and read anywhere | ✅ Live | [Download](https://emnexmangas.site/app) |
+| 💊 **Fountain Wellness** | Health & wellness store with a clean e-commerce experience | ✅ Live | [Visit](https://fountainwellness.store) |
+| 📄 **DocuGen** | Document & certificate generator that builds business docs from simple forms | ✅ Live | [Visit](https://ocu-gen-xi.vercel.app/#/) |
+| 🆔 **IDLab** | School ID-card generation system (PDF-based, automation focused) | 🔄 Updating | — |
+
+<sub>📌 This list keeps growing as I ship more.</sub>
+
+---
+
+## 💻 Tech Stack
+
+**Frontend & Mobile**
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat-square&logo=appwrite&logoColor=white)
+
+**Cloud, Hosting & Tools**
+
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=00C7B7)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=emnextech&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emnextech/emnextech/output/github-snake-dark.svg" />
@@ -215,17 +123,12 @@ I ship products, break things, fix them, and keep improving every day.
   <img alt="github-snake" src="https://raw.githubusercontent.com/emnextech/emnextech/output/github-snake-dark.svg" />
 </picture>
 
-<br/>
-<br/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=emnextech&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+---
 
-<br/>
-<br/>
+<div align="center">
 
 <i>💬 "Ship fast, learn faster. Every project teaches something new."</i>
-
-<br/>
-<br/>
 
 </div>
