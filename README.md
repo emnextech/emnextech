@@ -66,10 +66,6 @@ Production projects I've built, deployed, and keep improving.
 
 | Project | What it is | Status | Link |
 |:--|:--|:--:|:--:|
-| 🎬 **EmnexMovies** | Movie & TV streaming platform with downloads, built for performance and real users | ✅ Live | [Visit](https://emnexmovies.tech) |
-| 🌸 **EmnexAnime** | Anime streaming site with dubbed & subbed content and smooth playback | ✅ Live | [Visit](https://emnexanime.site) |
-| 📖 **EmnexMangas** | Manga reading platform with a clean reader UI and a large library | ✅ Live | [Visit](https://emnexmangas.site) |
-| 📱 **EmnexMangas App** | Android app for reading manga offline — download chapters and read anywhere | ✅ Live | [Download](https://emnexmangas.site/app) |
 | 💊 **Fountain Wellness** | Health & wellness store with a clean e-commerce experience | ✅ Live | [Visit](https://fountainwellness.store) |
 | 📄 **DocuGen** | Document & certificate generator that builds business docs from simple forms | ✅ Live | [Visit](https://ocu-gen-xi.vercel.app/#/) |
 | 🆔 **IDLab** | School ID-card generation system (PDF-based, automation focused) | 🔄 Updating | — |
