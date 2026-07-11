@@ -8,7 +8,7 @@ Focused on learning, shipping, and improving every single day.
 </p>
 
 <a href="https://emnextech.dev">
-  <img src="https://img.shields.io/badge/Portfolio-emmanuelngwenyama.vercel.app-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-emnextech.dev-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="mailto:emnex31@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
