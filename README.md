@@ -7,7 +7,7 @@ Full-stack web developer from 📍 Zambia, building real-world products.<br/>
 Focused on learning, shipping, and improving every single day.
 </p>
 
-<a href="https://emmanuelngwenyama.vercel.app">
+<a href="https://emnextech.dev">
   <img src="https://img.shields.io/badge/Portfolio-emmanuelngwenyama.vercel.app-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="mailto:emnex31@gmail.com">
