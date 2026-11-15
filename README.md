@@ -16,9 +16,6 @@ I build real products for students, schools and businesses, and ship them to pro
 
 <br/><br/>
 
-<a href="https://facebook.com/ngwenyama31"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" /></a>
-<a href="https://instagram.com/emnex31"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" /></a>
-<a href="https://patreon.com/Emmanuel731"><img src="https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=emnextech&color=36BCF7&style=flat-square&label=Profile+Views" />
 
 </div>
